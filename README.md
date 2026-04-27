@@ -4,6 +4,10 @@ I'm **Joshua**, a Developer trainee specializing in Application Development at B
 
 Beyond coding, I'm passionate about electronics, amateur radio, 3D modelling, and networking.
 
+<br>
+<br>
+
+
 ## Skills & Profile:
 
 <div align="center">
@@ -35,13 +39,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<br>
+
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Moessmer&show_icons=true&theme=transparent" height="195" alt="J-Moessmer's GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="J-Moessmer's 3D Contribution Graph">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="J-Moessmer's 3D Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=J-Moessmer&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=J-Moessmer&show_icons=true&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api?username=J-Moessmer&show_icons=true&theme=github_dark" height="195" alt="J-Moessmer's GitHub stats">
+  </picture>
 </p>
 
