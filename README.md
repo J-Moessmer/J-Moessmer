@@ -16,8 +16,9 @@ Beyond coding, I'm passionate about making music on the drumkit, exploring elect
 |---|---|---|
 | **Languages** | C, C#, Python, HTML, SQL, Pascal | <img src="https://skillicons.dev/icons?i=c,cs,py,html" height="30" /> |
 | **Frameworks** | Angular, ASP.NET | <img src="https://skillicons.dev/icons?i=angular,dotnet" height="30" /> |
-| **Software** | Visual Studio, PowerShell, AutoCAD, MS SQL Server | <img src="https://skillicons.dev/icons?i=visualstudio,powershell,autocad" height="30" /> |
+| **Software** | Visual Studio, PowerShell, AutoCAD, MS SQL Server, Blender, Git, MATLAB | <img src="https://skillicons.dev/icons?i=visualstudio,powershell,autocad,blender,git,matlab" height="30" /> |
 | **Operating Systems**| Windows, Linux (LPIC-1 Certified) | <img src="https://skillicons.dev/icons?i=windows,linux" height="30" /> |
+| **Future Interests** | Raspberry Pi, Arduino, [Meshtastic](https://github.com/meshtastic), [OpenManet](https://github.com/openmanet) | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="30" /> <a href="https://github.com/meshtastic"><img src="./Assets/meshtastic.svg" height="30" alt="Meshtastic" /></a> <a href="https://github.com/openmanet"><img src="./Assets/openmanet.jpg" height="30" style="border-radius: 22%;" alt="OpenManet" /></a> |
 | **Spoken Languages** | German (Native), English (C2) | <span style="font-size: 30px;">🇩🇪 🇬🇧</span> |
 | **Where to find me** | [Github](https://github.com/J-Moessmer), [Linkedin](https://www.linkedin.com/in/joshua-moessmer/) | <img src="https://skillicons.dev/icons?i=github,linkedin" height="30" /> |
 
