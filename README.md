@@ -1,21 +1,23 @@
-## Hi there 👋
+## Guten Tag! 👋
 
-I'm a Developer trainee at the BITLC school learning:
+I'm **Joshua**, a Developer trainee specializing in Application Development at BITLC GmbH. With a diverse background that touches on engineering, CAD design, and IT, I bring a strong analytical and hands-on approach to software development and systems administration.
 
-C#, Python, Angular and Linux LPIC-1
+Beyond coding, I'm passionate about electronics, amateur radio, 3D modelling, and networking.
 
+## Skills & Profile:
 
-## Skills:
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,angular,html,visualstudio,powershell,autocad,linux,windows,github,linkedin,stackoverflow,gmail)](https://skillicons.dev)
+| | | |
+|---|---|---|
+| **Languages** | C, C#, Python, HTML, SQL, Pascal | <img src="https://skillicons.dev/icons?i=c,cs,py,html" height="30" /> |
+| **Frameworks** | Angular, ASP.NET | <img src="https://skillicons.dev/icons?i=angular,dotnet" height="30" /> |
+| **Software** | Visual Studio, PowerShell, AutoCAD, MS SQL Server | <img src="https://skillicons.dev/icons?i=visualstudio,powershell,autocad" height="30" /> |
+| **Operating Systems**| Windows, Linux (LPIC-1 Certified) | <img src="https://skillicons.dev/icons?i=windows,linux" height="30" /> |
+| **Spoken Languages** | German (Native), English (C2) | <span style="font-size: 30px;">🇩🇪 🇬🇧</span> |
+| **Where to find me** | [Github](https://github.com/J-Moessmer), [Linkedin](https://www.linkedin.com/in/joshua-moessmer/) | <img src="https://skillicons.dev/icons?i=github,linkedin" height="30" /> |
 
-|||
-|-------------------|---------------------------------|
-| Languages | C, C#, Python, HTML |
-| Frameworks | Angular |
-| Software | VisualStudio, Powershell, Autocad |
-| Operating systems | Windows (XP, 7, 10, 11), Linux |
-| Where to find me | [Github](https://github.com/J-Moessmer), [Linkedin](https://www.linkedin.com/in/joshua-moessmer/), [Stackoverflow](https://stackoverflow.com/users/32657407/joshua) |
+</div>
 
 
 <!--
@@ -32,3 +34,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Moessmer&show_icons=true&theme=transparent" height="195" alt="J-Moessmer's GitHub stats" />
+  <a href="https://github.com/J-Moessmer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Moessmer&layout=compact&theme=transparent" height="195" alt="J-Moessmer's Top Languages" />
+  </a>
+</p>
+
