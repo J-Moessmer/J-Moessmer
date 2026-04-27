@@ -1,8 +1,8 @@
 ## Guten Tag! 👋
 
-I'm **Joshua**, a Developer trainee specializing in Application Development at BITLC GmbH. With a diverse background that touches on engineering, CAD design, and IT, I bring a strong analytical and hands-on approach to software development and systems administration.
+I'm **Joshua**, a Developer trainee specializing in Application Development at [BITLC GmbH](https://www.bitlc.de/). With a diverse background spanning engineering, CAD design, and IT, I bring a strong analytical and hands-on approach to software development and systems administration.
 
-Beyond coding, I'm passionate about electronics, amateur radio, 3D modelling, and networking.
+Beyond coding, I'm passionate about making music on the drumkit, exploring electronics, amateur radio, 3D modelling, and networking.
 
 <br>
 <br>
