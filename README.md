@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J-Moessmer&show_icons=true&theme=transparent" height="195" alt="J-Moessmer's GitHub stats" />
-  <a href="https://github.com/J-Moessmer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Moessmer&layout=compact&theme=transparent" height="195" alt="J-Moessmer's Top Languages" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="J-Moessmer's 3D Contribution Graph" />
 </p>
 
