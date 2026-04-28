@@ -14,7 +14,7 @@ Beyond coding, I'm passionate about making music on the drumkit, exploring elect
 
 | | | |
 |---|---|---|
-| **Languages** | C, C#, Python, HTML, SQL, Pascal | <img src="https://skillicons.dev/icons?i=c,cs,py,html" height="30" /> |
+| **Languages** | C, C#, Python, HTML, SQL, Pascal, AI | <img src="https://skillicons.dev/icons?i=c,cs,py,html,ai" height="30" /> |
 | **Frameworks** | Angular, ASP.NET | <img src="https://skillicons.dev/icons?i=angular,dotnet" height="30" /> |
 | **Software** | Visual Studio, PowerShell, AutoCAD, MS SQL Server, Blender, Git, MATLAB | <img src="https://skillicons.dev/icons?i=visualstudio,powershell,autocad,blender,git,matlab" height="30" /> |
 | **Operating Systems**| Windows, Linux (LPIC-1 Certified) | <img src="https://skillicons.dev/icons?i=windows,linux" height="30" /> |
