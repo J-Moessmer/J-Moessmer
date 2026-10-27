@@ -14,8 +14,8 @@ Beyond coding, I'm passionate about making music on the drumkit, exploring elect
 
 | | | |
 |---|---|---|
-| **Languages** | C, C#, Python, HTML, SQL, Pascal, AI | <img src="https://skillicons.dev/icons?i=c,cs,py,html,ai" height="30" /> |
-| **Frameworks** | Angular, ASP.NET | <img src="https://skillicons.dev/icons?i=angular,dotnet" height="30" /> |
+| **Languages** | C, C#, Python, HTML, SQL | <img src="https://skillicons.dev/icons?i=c,cs,py,html" height="30" /> |
+| **Frameworks** | Angular, ASP.NET, Agentic Engineering | <img src="https://skillicons.dev/icons?i=angular,dotnet,ai" height="30" /> |
 | **Software** | Visual Studio, PowerShell, AutoCAD, MS SQL Server, Blender, Git, MATLAB | <img src="https://skillicons.dev/icons?i=visualstudio,powershell,autocad,blender,git,matlab" height="30" /> |
 | **Operating Systems**| Windows, Linux (LPIC-1 Certified) | <img src="https://skillicons.dev/icons?i=windows,linux" height="30" /> |
 | **Future Interests** | Raspberry Pi, Arduino, [Meshtastic](https://github.com/meshtastic), [OpenManet](https://github.com/openmanet) | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="30" /> <a href="https://github.com/meshtastic"><img src="./Assets/meshtastic.svg" height="30" alt="Meshtastic" /></a> <a href="https://github.com/openmanet"><img src="./Assets/openmanet.jpg" height="30" style="border-radius: 22%;" alt="OpenManet" /></a> |
